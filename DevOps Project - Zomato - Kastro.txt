@@ -87,6 +87,7 @@ $ docker ps (You can see SonarQube container)
 
 10. Installation of Plugins in Jenkins
 Install below plugins:
+Sonarqube, Docker, Docker pipeleine, Docker APLI, docker-build-step, pipeleine:stage view, prometheus metrics, email extension template, OWASP dependency-check, Docker commons, Eclipse temurin,
 <Follow the process as explained in the video>
 
 11. SonarQube configuration in Jenkins
